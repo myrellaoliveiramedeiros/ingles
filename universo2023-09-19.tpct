@@ -1,0 +1,17 @@
+    1  mkdocs
+    2  apt
+    3  apt>apt.txt
+    4  apt install mkdocs c
+    5  sudo apt install mkdocs
+    6  sudo apt update
+    7  sudo apt install mkdocs
+    8  mkdocs
+    9  mkdocs>mkdocs.txt
+   10  mkdocs new
+   11  mkdocs new.
+   12  mkdocs new .
+   13  mkdocs serve 
+   14  mkdocs gh-deplay
+   15  mkdocs
+   16  mkdocs gh-deploy
+   17  history>universo2023-09-19.tpct
